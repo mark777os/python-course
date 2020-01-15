@@ -1,1 +1,2 @@
 print('hi me baby');
+print ('write better');
