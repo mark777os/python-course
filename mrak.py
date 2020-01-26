@@ -1,8 +1,9 @@
 import keyword
-import numpy as np
+# import numpy as np
 from PIL import Image
 import cv2
 
-pil_im = Image.open('empire.jpg')
+#
 print("mrak forever", keyword.kwlist, '\n')
-print ('rjulf nj выйдет чаша')
+print("rjulf nj выйдет чаша")
+print("gggg")
