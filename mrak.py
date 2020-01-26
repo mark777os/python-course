@@ -5,3 +5,4 @@ import cv2
 
 pil_im = Image.open('empire.jpg')
 print("mrak forever", keyword.kwlist, '\n')
+print ('rjulf nj выйдет чаша')
